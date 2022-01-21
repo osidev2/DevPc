@@ -1,47 +1,47 @@
 # Installation of my Development pc
 
 ## Office
-Outlook
-Word
-Excel
-Powerpoint
+Outlook  
+Word  
+Excel  
+Powerpoint  
 
 ## Development
-VS Code
-Visual Studio 2019
-Postman
-Notepad++
-Docker Desktop
+VS Code  
+Visual Studio 2019  
+Postman  
+Notepad++  
+Docker Desktop  
 Python
 
 ## Communication
-Slack
-Teams
+Slack  
+Teams  
 WhatsApp
 
 ## Database
-SSMS
+SSMS  
 Azure Data Studio
 
 ## CLI
-git
-Azure
+git  
+Azure  
 KubeCtl
 
 ## Connection
-OpenVPN
-Terminal
-Remote Desktop
-VMWare
-Citrix
-TeamViewer
+OpenVPN  
+Terminal  
+Remote Desktop  
+VMWare  
+Citrix  
+TeamViewer  
 Synology
 
 ## Browser
-Edge
-Chrome
+Edge  
+Chrome  
 FireFox
 
 ## Security
-1Password
+1Password  
 Keeper

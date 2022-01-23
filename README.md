@@ -1,5 +1,13 @@
 # Installation of my Development pc
 
+
+## Windows terminal and oh-my-posh
+
+## Docker desktop and WSL2
+
+
+List of all applications
+
 ## Office
 Outlook  
 Word  

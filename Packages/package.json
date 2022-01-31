@@ -7,6 +7,33 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier": "VMware.HorizonClient"
+				},
+				{
+					"PackageIdentifier": "Citrix.Workspace"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier": "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier": "Keeper.KeeperDesktop"
+				},
+				{
+					"PackageIdentifier": "AgileBits.1Password"
+				},
+				{
+					"PackageIdentifier": "SlackTechnologies.Slack"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},	
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
 				},
 				{

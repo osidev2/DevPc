@@ -7,6 +7,21 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier": "Microsoft.AzureStorageExplorer"
+				},
+				{
+					"PackageIdentifier": "Microsoft.AzureCLI"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "Synology.DriveClient"
+				},
+				{
+					"PackageIdentifier": "TeamViewer.TeamViewer"
+				},
+				{
 					"PackageIdentifier": "VMware.HorizonClient"
 				},
 				{

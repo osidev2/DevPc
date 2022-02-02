@@ -7,6 +7,15 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier": "VivaldiTechnologies.Vivaldi"
+				},
+				{
+					"PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerToys"
+				},
+				{
 					"PackageIdentifier": "Microsoft.AzureStorageExplorer"
 				},
 				{

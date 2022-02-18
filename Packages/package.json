@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier": "Elgato.StreamDeck"
+				},
+				{
 					"PackageIdentifier": "VivaldiTechnologies.Vivaldi"
 				},
 				{
